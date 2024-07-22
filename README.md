@@ -1,6 +1,6 @@
 awita18uwu
 vamos descubriendo el mundo de la programación poco a poco para que en un futuro sea mucho mejor 
-# el comienzo  
+# awita18uwu 
 
 ![texto alternativo](https://i.pinimg.com/236x/67/44/d4/6744d43266ed922a7bf532fccc92bff5.jpg)
 
